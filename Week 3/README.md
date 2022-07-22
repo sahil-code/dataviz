@@ -5,7 +5,7 @@
 
 ## Static
 
-![](Gif/Final_Image.png)
+![](Picture/Final_Image.png)
 
 [final p5.js](https://editor.p5js.org/Sahil_Agarwal/full/RDXYccwot)
 
