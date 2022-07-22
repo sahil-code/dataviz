@@ -1,0 +1,21 @@
+{
+  "Revenue": [
+    {
+      "MaxVal": 25,
+      "Unit": "Cr",
+      "Colour": "Yellow"
+    }
+  ],
+  "Profitability": [
+    {
+      "MaxVal": 0.5,
+      "Colour": "Green"
+    }
+  ],
+  "Rating": [
+    {
+      "MaxVal": 0.5,
+      "Colour": "Blue"
+    }
+  ]
+}
