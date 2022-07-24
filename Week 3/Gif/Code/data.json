@@ -67,12 +67,12 @@
     {
       "Name": "Tera Jadoo Chal Gayaa",
       "Year": 2000,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "The Prince of Light",
       "Year": 2000,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "To Fall in Love",
@@ -97,7 +97,7 @@
     {
       "Name": "Choo Lenge Akash",
       "Year": 2000,
-      "Genre": "Family"
+      "Genre": "Other"
     },
     {
       "Name": "Daku Ganga Jamuna",
@@ -127,12 +127,12 @@
     {
       "Name": "Mere Aagosh Mein",
       "Year": 2000,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Papa the Great",
       "Year": 2000,
-      "Genre": "Family"
+      "Genre": "Other"
     },
     {
       "Name": "Anokha Moti",
@@ -152,17 +152,17 @@
     {
       "Name": "Cover Story",
       "Year": 2000,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Daku Ramkali",
       "Year": 2000,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Ek Ajooba",
       "Year": 2000,
-      "Genre": "Family"
+      "Genre": "Other"
     },
     {
       "Name": "Ek Sthree",
@@ -192,7 +192,7 @@
     {
       "Name": "Kannan Varuvaan",
       "Year": 2000,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Khiladi 420",
@@ -335,7 +335,7 @@
       "Genre": "Action"
     },
     {
-      "Name": "Kunwara",
+      "Name": "KunOthera",
       "Year": 2000,
       "Genre": "Comedy"
     },
@@ -352,7 +352,7 @@
     {
       "Name": "Mohabbatein",
       "Year": 2000,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "Nagadevathe",
@@ -402,7 +402,7 @@
     {
       "Name": "Tarkieb",
       "Year": 2000,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Vamsee",
@@ -412,7 +412,7 @@
     {
       "Name": "Zindagi",
       "Year": 2000,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Lagaan: Once Upon a Time in India",
@@ -440,7 +440,7 @@
       "Genre": "Drama"
     },
     {
-      "Name": "Chhupa Rustam: A Musical Thriller",
+      "Name": "Chhupa Rustam: A Other Other",
       "Year": 2001,
       "Genre": "Drama"
     },
@@ -452,12 +452,12 @@
     {
       "Name": "Meri Pyaari Bahania Banegi Dulhania",
       "Year": 2001,
-      "Genre": "Family"
+      "Genre": "Other"
     },
     {
       "Name": "Rehnaa Hai Terre Dil Mein",
       "Year": 2001,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "Yeh Hai Pyar Ka Mausam",
@@ -482,7 +482,7 @@
     {
       "Name": "Ayurveda: Art of Being",
       "Year": 2001,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Chori Chori Chupke Chupke",
@@ -637,7 +637,7 @@
     {
       "Name": "Bhalevadivi Basu",
       "Year": 2001,
-      "Genre": "Family"
+      "Genre": "Other"
     },
     {
       "Name": "Bhooka Sher",
@@ -662,7 +662,7 @@
     {
       "Name": "Kama Sundari",
       "Year": 2001,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Kottai Mariamman",
@@ -695,19 +695,19 @@
       "Genre": "Drama"
     },
     {
-      "Name": "The Warrior",
+      "Name": "The Otherrior",
       "Year": 2001,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Vatsyayana Kamasutra",
       "Year": 2001,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Veer Savarkar",
       "Year": 2001,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Aalavandhan",
@@ -742,7 +742,7 @@
     {
       "Name": "Baaja",
       "Year": 2001,
-      "Genre": "Family"
+      "Genre": "Other"
     },
     {
       "Name": "Bhairav",
@@ -832,7 +832,7 @@
     {
       "Name": "Paagalpan",
       "Year": 2001,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Rahul",
@@ -852,7 +852,7 @@
     {
       "Name": "Yaadein...",
       "Year": 2001,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "Yamini",
@@ -862,7 +862,7 @@
     {
       "Name": "Zubeidaa",
       "Year": 2001,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Agnivarsha: The Fire and the Rain",
@@ -877,7 +877,7 @@
     {
       "Name": "Hum Pyar Tumhi Se Kar Baithe",
       "Year": 2002,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "Kuch Tum Kaho Kuch Hum Kahein",
@@ -917,7 +917,7 @@
     {
       "Name": "Koi Mere Dil Se Poochhe",
       "Year": 2002,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "Mere Yaar Ki Shaadi Hai",
@@ -947,7 +947,7 @@
     {
       "Name": "23rd March 1931: Shaheed",
       "Year": 2002,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Akhiyon Se Goli Maare",
@@ -1010,7 +1010,7 @@
       "Genre": "Action"
     },
     {
-      "Name": "Awara Paagal Deewana",
+      "Name": "AOthera Paagal Deewana",
       "Year": 2002,
       "Genre": "Action"
     },
@@ -1037,7 +1037,7 @@
     {
       "Name": "Devi Ahilya Bai",
       "Year": 2002,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Dil Hai Tumhaara",
@@ -1052,7 +1052,7 @@
     {
       "Name": "Haathi Ka Anda",
       "Year": 2002,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Let's Be Friends!",
@@ -1097,7 +1097,7 @@
     {
       "Name": "Yeh Kaisi Mohabbat",
       "Year": 2002,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "Zindagi Khoobsoorat Hai",
@@ -1132,7 +1132,7 @@
     {
       "Name": "Lal Salaam",
       "Year": 2002,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "Mawali No.1",
@@ -1162,7 +1162,7 @@
     {
       "Name": "Chandu",
       "Year": 2002,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Company",
@@ -1272,7 +1272,7 @@
     {
       "Name": "Road",
       "Year": 2002,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Saathiya",
@@ -1292,7 +1292,7 @@
     {
       "Name": "Shaheed-E-Azam",
       "Year": 2002,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Shararat",
@@ -1317,7 +1317,7 @@
     {
       "Name": "Chale Chalo: The Lunacy of Film Making",
       "Year": 2003,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Humein Tumse Pyar Ho Gaya Chupke Chupke",
@@ -1357,12 +1357,12 @@
     {
       "Name": "Yeh Hai Chakkad Bakkad Bumbe Bo",
       "Year": 2003,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Baaz: A Bird in Danger",
       "Year": 2003,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Dudes in the 10th Century",
@@ -1407,12 +1407,12 @@
     {
       "Name": "Dil Pardesi Ho Gayaa",
       "Year": 2003,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Ek Din 24 Ghante",
       "Year": 2003,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Kal Ho Naa Ho",
@@ -1457,7 +1457,7 @@
     {
       "Name": "88 Antop Hill",
       "Year": 2003,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Anubhav: An Experience",
@@ -1472,7 +1472,7 @@
     {
       "Name": "Dhund: The Fog",
       "Year": 2003,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Dil Ka Rishta",
@@ -1487,7 +1487,7 @@
     {
       "Name": "Escape from Taliban",
       "Year": 2003,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Hazaaron Khwaishein Aisi",
@@ -1542,17 +1542,17 @@
     {
       "Name": "Tujhe Meri Kasam",
       "Year": 2003,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
-      "Name": "3 Deewarein",
+      "Name": "3 DeeOtherein",
       "Year": 2003,
       "Genre": "Crime"
     },
     {
       "Name": "Bad Boys",
       "Year": 2003,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Bhayaanak Panjaa",
@@ -1577,7 +1577,7 @@
     {
       "Name": "Chota Jadugar",
       "Year": 2003,
-      "Genre": "Fantasy"
+      "Genre": "Other"
     },
     {
       "Name": "Chupke Se",
@@ -1617,7 +1617,7 @@
     {
       "Name": "Mumbai Matinee",
       "Year": 2003,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Nayee Padosan",
@@ -1647,7 +1647,7 @@
     {
       "Name": "Wrong Number",
       "Year": 2003,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Xcuse Me",
@@ -1767,7 +1767,7 @@
     {
       "Name": "Janasheen",
       "Year": 2003,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "Jism",
@@ -1897,7 +1897,7 @@
     {
       "Name": "Kaun Hai Jo Sapno Mein Aaya",
       "Year": 2004,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "Raton Ki Rani (The Night Queen)",
@@ -1907,7 +1907,7 @@
     {
       "Name": "Shukriya: Till Death Do Us Apart",
       "Year": 2004,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "Ab Tumhare Hawale Watan Saathiyo",
@@ -1942,7 +1942,7 @@
     {
       "Name": "Silence Please... The Dressing Room",
       "Year": 2004,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Uuf Kya Jaadoo Mohabbat Hai...",
@@ -2022,7 +2022,7 @@
     {
       "Name": "Woh Tera Naam Tha",
       "Year": 2004,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Yeh Lamhe Judaai Ke",
@@ -2032,7 +2032,7 @@
     {
       "Name": "Aabra Ka Daabra",
       "Year": 2004,
-      "Genre": "Fantasy"
+      "Genre": "Other"
     },
     {
       "Name": "Ab Tak Chhappan",
@@ -2052,7 +2052,7 @@
     {
       "Name": "Dil Maange More!!!",
       "Year": 2004,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "Ek Hasina Thi",
@@ -2087,12 +2087,12 @@
     {
       "Name": "Ishq Hai Tumse",
       "Year": 2004,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Kiss Kis Ko",
       "Year": 2004,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "Love in Nepal",
@@ -2132,7 +2132,7 @@
     {
       "Name": "Tumsa Nahin Dekha",
       "Year": 2004,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "19 Revolutions",
@@ -2142,7 +2142,7 @@
     {
       "Name": "Ab... Bas!",
       "Year": 2004,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "AK 47",
@@ -2167,7 +2167,7 @@
     {
       "Name": "Hari Om",
       "Year": 2004,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Hum Tum",
@@ -2262,7 +2262,7 @@
     {
       "Name": "Dobara",
       "Year": 2004,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "Fida",
@@ -2292,7 +2292,7 @@
     {
       "Name": "Hanan",
       "Year": 2004,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "Hawas",
@@ -2337,7 +2337,7 @@
     {
       "Name": "Madhoshi",
       "Year": 2004,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "Madurey",
@@ -2367,7 +2367,7 @@
     {
       "Name": "Muskaan",
       "Year": 2004,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Naach",
@@ -2447,7 +2447,7 @@
     {
       "Name": "Netaji Subhas Chandra Bose: The Forgotten Hero",
       "Year": 2005,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Aashiq Banaya Aapne: Love Takes Over",
@@ -2467,7 +2467,7 @@
     {
       "Name": "Fun: Can Be Dangerous Sometimes",
       "Year": 2005,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Home Delivery: Aapko... Ghar Tak",
@@ -2487,7 +2487,7 @@
     {
       "Name": "Lucky: No Time for Love",
       "Year": 2005,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "Main, Meri Patni... Aur Woh!",
@@ -2527,7 +2527,7 @@
     {
       "Name": "Bobby: Love and Lust",
       "Year": 2005,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Bye Bye Miss Goodnight",
@@ -2542,7 +2542,7 @@
     {
       "Name": "Chand Sa Roshan Chehra",
       "Year": 2005,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Chocolate: Deep Dark Secrets",
@@ -2582,7 +2582,7 @@
     {
       "Name": "Khamoshh... Khauff Ki Raat",
       "Year": 2005,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Khullam Khulla Pyaar Karen",
@@ -2590,7 +2590,7 @@
       "Genre": "Comedy"
     },
     {
-      "Name": "Kisna: The Warrior Poet",
+      "Name": "Kisna: The Otherrior Poet",
       "Year": 2005,
       "Genre": "Drama"
     },
@@ -2617,7 +2617,7 @@
     {
       "Name": "Mangal Pandey: The Rising",
       "Year": 2005,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Padmashree Laloo Prasad Yadav",
@@ -2625,14 +2625,14 @@
       "Genre": "Comedy"
     },
     {
-      "Name": "Viruddh... Family Comes First",
+      "Name": "Viruddh... Other Comes First",
       "Year": 2005,
       "Genre": "Drama"
     },
     {
       "Name": "Yehi Hai High Society",
       "Year": 2005,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "15 Park Avenue",
@@ -2672,7 +2672,7 @@
     {
       "Name": "Chetna: The Excitement",
       "Year": 2005,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Chicken Tikka Masala",
@@ -2712,7 +2712,7 @@
     {
       "Name": "Naam Gum Jaayega",
       "Year": 2005,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Neal 'n' Nikki",
@@ -2782,7 +2782,7 @@
     {
       "Name": "Mazaa Mazaa",
       "Year": 2005,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Missed Call",
@@ -2827,7 +2827,7 @@
     {
       "Name": "Sunset Bollywood",
       "Year": 2005,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Tango Charlie",
@@ -2847,7 +2847,7 @@
     {
       "Name": "Time Pass",
       "Year": 2005,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "...Yahaan",
@@ -2882,7 +2882,7 @@
     {
       "Name": "Bhagmati",
       "Year": 2005,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Black",
@@ -2902,7 +2902,7 @@
     {
       "Name": "Chehraa",
       "Year": 2005,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "D",
@@ -2947,7 +2947,7 @@
     {
       "Name": "Hanuman",
       "Year": 2005,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Insan",
@@ -2967,7 +2967,7 @@
     {
       "Name": "Kaal",
       "Year": 2005,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Kalyug",
@@ -3012,7 +3012,7 @@
     {
       "Name": "Nazar",
       "Year": 2005,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Paheli",
@@ -3037,7 +3037,7 @@
     {
       "Name": "Relax",
       "Year": 2005,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Revati",
@@ -3047,7 +3047,7 @@
     {
       "Name": "Rog",
       "Year": 2005,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Sandakozhi",
@@ -3147,12 +3147,12 @@
     {
       "Name": "Anokhe Amar Shaheed Baba Deep Singh Ji",
       "Year": 2006,
-      "Genre": "History"
+      "Genre": "Other"
     },
     {
       "Name": "Hota Hai Dil Pyaar Mein Paagal",
       "Year": 2006,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Jaan-E-Mann: Let's Fall in Love... Again",
@@ -3162,7 +3162,7 @@
     {
       "Name": "7 Islands and a Metro",
       "Year": 2006,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Jawani Diwani: A Youthful Joyride",
@@ -3192,7 +3192,7 @@
     {
       "Name": "Chand Ke Paar Chalo",
       "Year": 2006,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Deadline: Sirf 24 Ghante",
@@ -3200,7 +3200,7 @@
       "Genre": "Crime"
     },
     {
-      "Name": "Family: Ties of Blood",
+      "Name": "Other: Ties of Blood",
       "Year": 2006,
       "Genre": "Action"
     },
@@ -3252,12 +3252,12 @@
     {
       "Name": "Scream of the Ants",
       "Year": 2006,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Souten: The Other Woman",
       "Year": 2006,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Tom, Dick, and Harry",
@@ -3277,7 +3277,7 @@
     {
       "Name": "Anthony Kaun Hai?",
       "Year": 2006,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Bas Ek Pal",
@@ -3307,7 +3307,7 @@
     {
       "Name": "Doodh Aur Apheem",
       "Year": 2006,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Golmaal: Fun Unlimited",
@@ -3382,7 +3382,7 @@
     {
       "Name": "Valley of Flowers",
       "Year": 2006,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "We R Friends",
@@ -3427,7 +3427,7 @@
     {
       "Name": "Kabul Express",
       "Year": 2006,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Kachchi Sadak",
@@ -3437,7 +3437,7 @@
     {
       "Name": "Khan kluay",
       "Year": 2006,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Ladies Tailor",
@@ -3502,7 +3502,7 @@
     {
       "Name": "Woh lamhe...",
       "Year": 2006,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Aathi",
@@ -3522,7 +3522,7 @@
     {
       "Name": "Ankahee",
       "Year": 2006,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Anuranan",
@@ -3537,7 +3537,7 @@
     {
       "Name": "Banaras",
       "Year": 2006,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "Chingaari",
@@ -3602,7 +3602,7 @@
     {
       "Name": "Katputtli",
       "Year": 2006,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Krrish",
@@ -3612,7 +3612,7 @@
     {
       "Name": "Madhubaala",
       "Year": 2006,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Naksha",
@@ -3632,7 +3632,7 @@
     {
       "Name": "Prateeksha",
       "Year": 2006,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Rehguzar",
@@ -3747,7 +3747,7 @@
     {
       "Name": "Ek Chalis Ki Last Local",
       "Year": 2007,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Ek Krantiveer: Vasudev Balwant Phadke",
@@ -3775,9 +3775,9 @@
       "Genre": "Action"
     },
     {
-      "Name": "Sirf Romance: Love by Chance",
+      "Name": "Sirf Other: Love by Chance",
       "Year": 2007,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Dhan Dhana Dhan Goal",
@@ -3892,7 +3892,7 @@
     {
       "Name": "Gandhi, My Father",
       "Year": 2007,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Gauri: The Unborn",
@@ -3925,14 +3925,14 @@
       "Genre": "Drama"
     },
     {
-      "Name": "Kunwara Paying Guest",
+      "Name": "KunOthera Paying Guest",
       "Year": 2007,
       "Genre": "Drama"
     },
     {
       "Name": "My Friend Ganesha",
       "Year": 2007,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Nehlle Pe Dehlla",
@@ -3957,7 +3957,7 @@
     {
       "Name": "The Darjeeling Limited",
       "Year": 2007,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "68 Pages",
@@ -4080,7 +4080,7 @@
       "Genre": "Action"
     },
     {
-      "Name": "Aalwar",
+      "Name": "AalOther",
       "Year": 2007,
       "Genre": "Action"
     },
@@ -4090,7 +4090,7 @@
       "Genre": "Action"
     },
     {
-      "Name": "Anwar",
+      "Name": "AnOther",
       "Year": 2007,
       "Genre": "Drama"
     },
@@ -4105,7 +4105,7 @@
       "Genre": "Action"
     },
     {
-      "Name": "Awarapan",
+      "Name": "AOtherapan",
       "Year": 2007,
       "Genre": "Action"
     },
@@ -4127,7 +4127,7 @@
     {
       "Name": "Deha",
       "Year": 2007,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Desamuduru",
@@ -4192,7 +4192,7 @@
     {
       "Name": "Mahek",
       "Year": 2007,
-      "Genre": "Family"
+      "Genre": "Other"
     },
     {
       "Name": "Manikanda",
@@ -4235,7 +4235,7 @@
       "Genre": "Action"
     },
     {
-      "Name": "Saawariya",
+      "Name": "SaaOtheriya",
       "Year": 2007,
       "Genre": "Drama"
     },
@@ -4280,19 +4280,19 @@
       "Genre": "Comedy"
     },
     {
-      "Name": "Leaving Home: The Life and Music of Indian Ocean",
+      "Name": "Leaving Home: The Life and Other of Indian Ocean",
       "Year": 2008,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Tathagatha Buddha The Life & Times of Gautama Buddha",
       "Year": 2008,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Kahaani Gudiya Ki...: True Story of a Woman",
       "Year": 2008,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Shaurya: It Takes Courage to Make Right... Right",
@@ -4312,7 +4312,7 @@
     {
       "Name": "Pancham Unmixed: Mujhe Chalte Jaana Hai ...",
       "Year": 2008,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "EMI: Liya Hai To Chukana Padega",
@@ -4387,7 +4387,7 @@
     {
       "Name": "My Friend Ganesha 2",
       "Year": 2008,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Oye Lucky! Lucky Oye!",
@@ -4397,7 +4397,7 @@
     {
       "Name": "Pehli Nazar Ka Pyaar",
       "Year": 2008,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "The Legend of Drona",
@@ -4417,7 +4417,7 @@
     {
       "Name": "Veer Yodha Prithviraj Chauhan",
       "Year": 2008,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "When Kiran Met Karen",
@@ -4452,7 +4452,7 @@
     {
       "Name": "Colours of Passion",
       "Year": 2008,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Don Muthu Swami",
@@ -4460,7 +4460,7 @@
       "Genre": "Comedy"
     },
     {
-      "Name": "Gumnaam: The Mystery",
+      "Name": "Gumnaam: The Other",
       "Year": 2008,
       "Genre": "Action"
     },
@@ -4492,7 +4492,7 @@
     {
       "Name": "Phir Tauba Tauba",
       "Year": 2008,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Singh Is King",
@@ -4502,7 +4502,7 @@
     {
       "Name": "Supermen of Malegaon",
       "Year": 2008,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "The Firm Land",
@@ -4587,7 +4587,7 @@
     {
       "Name": "Roadside Romeo",
       "Year": 2008,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Rock On!!",
@@ -4657,7 +4657,7 @@
     {
       "Name": "Dashavatar",
       "Year": 2008,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Dasvidaniya",
@@ -4692,7 +4692,7 @@
     {
       "Name": "Ghatothkach",
       "Year": 2008,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Gooli",
@@ -4835,7 +4835,7 @@
       "Genre": "Comedy"
     },
     {
-      "Name": "Quick Gun Murugun: Misadventures of an Indian Cowboy",
+      "Name": "Quick Gun Murugun: MisOthers of an Indian Cowboy",
       "Year": 2009,
       "Genre": "Action"
     },
@@ -4905,7 +4905,7 @@
       "Genre": "Drama"
     },
     {
-      "Name": "Red Alert: The War Within",
+      "Name": "Red Alert: The Other Within",
       "Year": 2009,
       "Genre": "Action"
     },
@@ -4945,7 +4945,7 @@
       "Genre": "Action"
     },
     {
-      "Name": "Jashnn: The Music Within",
+      "Name": "Jashnn: The Other Within",
       "Year": 2009,
       "Genre": "Drama"
     },
@@ -4965,7 +4965,7 @@
       "Genre": "Comedy"
     },
     {
-      "Name": "Raaz: The Mystery Continues",
+      "Name": "Raaz: The Other Continues",
       "Year": 2009,
       "Genre": "Horror"
     },
@@ -4977,7 +4977,7 @@
     {
       "Name": "Tales of Siva 1",
       "Year": 2009,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Tera Kya Hoga Johnny",
@@ -5087,7 +5087,7 @@
     {
       "Name": "Love in India",
       "Year": 2009,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Luck by Chance",
@@ -5117,7 +5117,7 @@
     {
       "Name": "Son of Dracula",
       "Year": 2009,
-      "Genre": "Fantasy"
+      "Genre": "Other"
     },
     {
       "Name": "Team: The Force",
@@ -5132,7 +5132,7 @@
     {
       "Name": "The White Elephant",
       "Year": 2009,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Wake Up Sid",
@@ -5172,7 +5172,7 @@
     {
       "Name": "Blue Oranges",
       "Year": 2009,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Bolo Raam",
@@ -5190,7 +5190,7 @@
       "Genre": "Crime"
     },
     {
-      "Name": "Fast Forward",
+      "Name": "Fast ForOtherd",
       "Year": 2009,
       "Genre": "Action"
     },
@@ -5217,7 +5217,7 @@
     {
       "Name": "Love Game",
       "Year": 2009,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Love Khichdi",
@@ -5247,7 +5247,7 @@
     {
       "Name": "Road, Movie",
       "Year": 2009,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Sankat City",
@@ -5382,7 +5382,7 @@
     {
       "Name": "Mohandas",
       "Year": 2009,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Paa",
@@ -5495,9 +5495,9 @@
       "Genre": "Action"
     },
     {
-      "Name": "Lava Kusa: The Warrior Twins",
+      "Name": "Lava Kusa: The Otherrior Twins",
       "Year": 2010,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "LSD: Love, Sex Aur Dhokha",
@@ -5592,7 +5592,7 @@
     {
       "Name": "Bhoot and Friends",
       "Year": 2010,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Break Ke Baad",
@@ -5667,7 +5667,7 @@
     {
       "Name": "Mee Sindhutai Sapkal",
       "Year": 2010,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Memories in March",
@@ -5687,7 +5687,7 @@
     {
       "Name": "Pratisaad: The Response",
       "Year": 2010,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Rakhta Charitra 2",
@@ -5702,7 +5702,7 @@
     {
       "Name": "Ramayana: The Epic",
       "Year": 2010,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Right Yaaa Wrong",
@@ -5717,7 +5717,7 @@
     {
       "Name": "Shaapit: The Cursed",
       "Year": 2010,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Soul of Sand",
@@ -5737,12 +5737,12 @@
     {
       "Name": "Tere Ishq Nachaya",
       "Year": 2010,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "The Impossible Murder",
       "Year": 2010,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "The Waiting Room",
@@ -5757,10 +5757,10 @@
     {
       "Name": "Toonpur Ka Superrhero",
       "Year": 2010,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
-      "Name": "We Are Family",
+      "Name": "We Are Other",
       "Year": 2010,
       "Genre": "Comedy"
     },
@@ -5807,7 +5807,7 @@
     {
       "Name": "Guru Sishyan",
       "Year": 2010,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Hello Darling",
@@ -5857,7 +5857,7 @@
     {
       "Name": "Malik Ek",
       "Year": 2010,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Milenge Milenge",
@@ -6087,7 +6087,7 @@
     {
       "Name": "Bollywood: The Greatest Love Story Ever Told",
       "Year": 2011,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Hair is Falling: A Serious Comedy Film",
@@ -6177,7 +6177,7 @@
     {
       "Name": "No One Killed Jessica",
       "Year": 2011,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Not a Love Story",
@@ -6222,7 +6222,7 @@
     {
       "Name": "U R My Jaan",
       "Year": 2011,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Zindagi Na Milegi Dobara",
@@ -6297,7 +6297,7 @@
     {
       "Name": "Na Jaane Kabse",
       "Year": 2011,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Naughty @ 40",
@@ -6327,7 +6327,7 @@
     {
       "Name": "The Dirty Picture",
       "Year": 2011,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Tum Ho Yaara",
@@ -6337,7 +6337,7 @@
     {
       "Name": "Ye Stupid Pyar",
       "Year": 2011,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Yeh Saali Zindagi",
@@ -6412,7 +6412,7 @@
     {
       "Name": "Masti Express",
       "Year": 2011,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Mumbhai Connection",
@@ -6512,7 +6512,7 @@
     {
       "Name": "Bhopali",
       "Year": 2011,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Bodyguard",
@@ -6532,7 +6532,7 @@
     {
       "Name": "Dam999",
       "Year": 2011,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Damadamm!",
@@ -6607,7 +6607,7 @@
     {
       "Name": "Monica",
       "Year": 2011,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Nirvana13",
@@ -6712,7 +6712,7 @@
     {
       "Name": "Chhota Bheem and the Curse of Damyaan",
       "Year": 2012,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Maharana Pratap: The First Freedom Fighter",
@@ -6727,17 +6727,17 @@
     {
       "Name": "Shirin Farhad Ki Toh Nikal Padi",
       "Year": 2012,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "2 Nights in Soul Valley",
       "Year": 2012,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "5 Ghantey Mien 5 Crore",
       "Year": 2012,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Bhobhar - The Live Ash",
@@ -6805,9 +6805,9 @@
       "Genre": "Comedy"
     },
     {
-      "Name": "Arjun: The Warrior Prince",
+      "Name": "Arjun: The Otherrior Prince",
       "Year": 2012,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Chaar Din Ki Chandni",
@@ -6847,17 +6847,17 @@
     {
       "Name": "Jhansi Ki Rani Laxmibai",
       "Year": 2012,
-      "Genre": "History"
+      "Genre": "Other"
     },
     {
       "Name": "Kismet Love Paisa Dilli",
       "Year": 2012,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "London Paris New York",
       "Year": 2012,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Love You to Death",
@@ -6872,12 +6872,12 @@
     {
       "Name": "Qasam Se Qasam Se",
       "Year": 2012,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Say Yes to Love",
       "Year": 2012,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Second Marriage Dot Com",
@@ -6962,7 +6962,7 @@
     {
       "Name": "Krishna Aur Kans",
       "Year": 2012,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Le Gaya Saddam",
@@ -6977,7 +6977,7 @@
     {
       "Name": "Life of Pi",
       "Year": 2012,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Luv U Soniyo",
@@ -7007,7 +7007,7 @@
     {
       "Name": "Sons of Ram",
       "Year": 2012,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Teri Meri Kahaani",
@@ -7027,7 +7027,7 @@
     {
       "Name": "Zindagi Tere Naam",
       "Year": 2012,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "100% Love",
@@ -7047,7 +7047,7 @@
     {
       "Name": "Asana Travelogue",
       "Year": 2012,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "B.A. Pass",
@@ -7062,7 +7062,7 @@
     {
       "Name": "Bittoo Boss",
       "Year": 2012,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Blood Money",
@@ -7077,7 +7077,7 @@
     {
       "Name": "Celluloid Man",
       "Year": 2012,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Chaalis Chauraasi",
@@ -7097,17 +7097,17 @@
     {
       "Name": "Dangerous Ishq",
       "Year": 2012,
-      "Genre": "Fantasy"
+      "Genre": "Other"
     },
     {
       "Name": "Delhi Safari",
       "Year": 2012,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Delinquent Dancers",
       "Year": 2012,
-      "Genre": "Music"
+      "Genre": "Other"
     },
     {
       "Name": "English Vinglish",
@@ -7122,7 +7122,7 @@
     {
       "Name": "Gulabi Gang",
       "Year": 2012,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Hate Story",
@@ -7137,12 +7137,12 @@
     {
       "Name": "Inshallah, Kashmir",
       "Year": 2012,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Janleva 555",
       "Year": 2012,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "Jannat 2",
@@ -7167,7 +7167,7 @@
     {
       "Name": "Lala Hardaul",
       "Year": 2012,
-      "Genre": "History"
+      "Genre": "Other"
     },
     {
       "Name": "Life's Good",
@@ -7207,7 +7207,7 @@
     {
       "Name": "Tutiya Dil",
       "Year": 2012,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Vicky Donor",
@@ -7217,7 +7217,7 @@
     {
       "Name": "Aalaap",
       "Year": 2012,
-      "Genre": "Sci-Fi"
+      "Genre": "Other"
     },
     {
       "Name": "Agneepath",
@@ -7317,7 +7317,7 @@
     {
       "Name": "Kahaani",
       "Year": 2012,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Kaksparsh",
@@ -7367,7 +7367,7 @@
     {
       "Name": "Rakhtbeej",
       "Year": 2012,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Riwayat",
@@ -7382,7 +7382,7 @@
     {
       "Name": "Shahid",
       "Year": 2012,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Shanghai",
@@ -7407,7 +7407,7 @@
     {
       "Name": "Chhota Bheem and the Throne of Bali",
       "Year": 2013,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Once Upon a Time in Mumbaai Dobara",
@@ -7422,12 +7422,12 @@
     {
       "Name": "Blue Skies, Green Waters, Red Earth",
       "Year": 2013,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
-      "Name": "Chhota Bheem in the Incan Adventure",
+      "Name": "Chhota Bheem in the Incan Other",
       "Year": 2013,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "A Journey of Samyak Buddha",
@@ -7472,7 +7472,7 @@
     {
       "Name": "A New Love Ishtory",
       "Year": 2013,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Ankur Arora Murder Case",
@@ -7492,12 +7492,12 @@
     {
       "Name": "Fire in the Blood",
       "Year": 2013,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Goopi Gawaiya Bagha Bajaiya",
       "Year": 2013,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Gori Tere Pyaar Mein!",
@@ -7507,7 +7507,7 @@
     {
       "Name": "I Don't Luv U",
       "Year": 2013,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "I, Me aur Main",
@@ -7562,7 +7562,7 @@
     {
       "Name": "The Light: Swami Vivekananda",
       "Year": 2013,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "The World of Fashion",
@@ -7570,7 +7570,7 @@
       "Genre": "Drama"
     },
     {
-      "Name": "War Chhod Na Yaar",
+      "Name": "Other Chhod Na Yaar",
       "Year": 2013,
       "Genre": "Comedy"
     },
@@ -7597,7 +7597,7 @@
     {
       "Name": "Bhaag Milkha Bhaag",
       "Year": 2013,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Deewana Main Deewana",
@@ -7642,7 +7642,7 @@
     {
       "Name": "Lagna Pahave Karun",
       "Year": 2013,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Lakeer Ka Fakeer",
@@ -7657,7 +7657,7 @@
     {
       "Name": "Main Krishna Hoon",
       "Year": 2013,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Mangalashtak Once More",
@@ -7672,7 +7672,7 @@
     {
       "Name": "Ooops a Desi",
       "Year": 2013,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Shootout at Wadala",
@@ -7680,14 +7680,14 @@
       "Genre": "Action"
     },
     {
-      "Name": "Shuddh Desi Romance",
+      "Name": "Shuddh Desi Other",
       "Year": 2013,
       "Genre": "Comedy"
     },
     {
       "Name": "Table No. 21",
       "Year": 2013,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "The Bright Day",
@@ -7697,7 +7697,7 @@
     {
       "Name": "The Dirty Relation",
       "Year": 2013,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "The Good Road",
@@ -7712,7 +7712,7 @@
     {
       "Name": "What the Fish",
       "Year": 2013,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Zara sambhal ke",
@@ -7742,7 +7742,7 @@
     {
       "Name": "Amdavad Junction",
       "Year": 2013,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Ankhon Dekhi",
@@ -7762,7 +7762,7 @@
     {
       "Name": "Beyond Bollywood",
       "Year": 2013,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Bombay Talkies",
@@ -7802,7 +7802,7 @@
     {
       "Name": "Faith Connections",
       "Year": 2013,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Grand Masti",
@@ -7817,7 +7817,7 @@
     {
       "Name": "Ishk Actually",
       "Year": 2013,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "John Day",
@@ -7842,7 +7842,7 @@
     {
       "Name": "Liar's Dice",
       "Year": 2013,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Listen... Amaya",
@@ -7952,7 +7952,7 @@
     {
       "Name": "The Unsound",
       "Year": 2013,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Zila Ghaziabad",
@@ -7972,7 +7972,7 @@
     {
       "Name": "Attahaasa",
       "Year": 2013,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Aurangzeb",
@@ -7992,7 +7992,7 @@
     {
       "Name": "Bhadaas",
       "Year": 2013,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Boss",
@@ -8077,7 +8077,7 @@
     {
       "Name": "Katiyabaaz",
       "Year": 2013,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Lateef",
@@ -8097,7 +8097,7 @@
     {
       "Name": "Mahabharat",
       "Year": 2013,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Mai",
@@ -8107,7 +8107,7 @@
     {
       "Name": "Mastram",
       "Year": 2013,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Mokssh",
@@ -8122,7 +8122,7 @@
     {
       "Name": "Oonga",
       "Year": 2013,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Phoring",
@@ -8142,7 +8142,7 @@
     {
       "Name": "Queen",
       "Year": 2013,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Raanjhanaa",
@@ -8192,7 +8192,7 @@
     {
       "Name": "Shree",
       "Year": 2013,
-      "Genre": "Sci-Fi"
+      "Genre": "Other"
     },
     {
       "Name": "Shringaar",
@@ -8212,7 +8212,7 @@
     {
       "Name": "Sniffer",
       "Year": 2013,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Sunglass",
@@ -8225,14 +8225,14 @@
       "Genre": "Crime"
     },
     {
-      "Name": "Vishwaroopam",
+      "Name": "VishOtheroopam",
       "Year": 2013,
       "Genre": "Action"
     },
     {
-      "Name": "Warning",
+      "Name": "Otherning",
       "Year": 2013,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Zanjeer",
@@ -8302,12 +8302,12 @@
     {
       "Name": "The Hero of Color City",
       "Year": 2014,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "The Lost Salesman of Delhi",
       "Year": 2014,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "After the Third Bell",
@@ -8327,7 +8327,7 @@
     {
       "Name": "DOA: Death of Amar",
       "Year": 2014,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Ekkees Toppon Ki Salaami",
@@ -8407,7 +8407,7 @@
     {
       "Name": "The Royal Bengal Tiger",
       "Year": 2014,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Yeh Dil Ramta Jogi",
@@ -8417,7 +8417,7 @@
     {
       "Name": "Akela the Alone",
       "Year": 2014,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Babloo Happy Hai",
@@ -8430,14 +8430,14 @@
       "Genre": "Drama"
     },
     {
-      "Name": "Children of War",
+      "Name": "Children of Other",
       "Year": 2014,
       "Genre": "Drama"
     },
     {
       "Name": "Dear Vs Bear",
       "Year": 2014,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Dekh Tamasha Dekh",
@@ -8472,7 +8472,7 @@
     {
       "Name": "Karar: The Deal",
       "Year": 2014,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Karle Pyaar Karle",
@@ -8537,7 +8537,7 @@
     {
       "Name": "Samrat & Co.",
       "Year": 2014,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Shuruaat Ka Interval",
@@ -8552,7 +8552,7 @@
     {
       "Name": "The Arms Drop",
       "Year": 2014,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "The Dirty MMS",
@@ -8617,7 +8617,7 @@
     {
       "Name": "Bollywood Villa",
       "Year": 2014,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Chaarfutiya Chhokare",
@@ -8652,12 +8652,12 @@
     {
       "Name": "Dreadlocks Story",
       "Year": 2014,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Finding Fanny",
       "Year": 2014,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Gulaab Gang",
@@ -8697,7 +8697,7 @@
     {
       "Name": "Ladies First",
       "Year": 2014,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Little Terrors",
@@ -8712,7 +8712,7 @@
     {
       "Name": "M Cream",
       "Year": 2014,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Mary Kom",
@@ -8740,7 +8740,7 @@
       "Genre": "Drama"
     },
     {
-      "Name": "Raja Natwarlal",
+      "Name": "Raja NatOtherlal",
       "Year": 2014,
       "Genre": "Crime"
     },
@@ -8772,7 +8772,7 @@
     {
       "Name": "The Lastbenchers",
       "Year": 2014,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "The Shaukeens",
@@ -8787,7 +8787,7 @@
     {
       "Name": "The Xpose",
       "Year": 2014,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Titoo MBA",
@@ -8862,7 +8862,7 @@
     {
       "Name": "Ebn-e-Batuta",
       "Year": 2014,
-      "Genre": "Sci-Fi"
+      "Genre": "Other"
     },
     {
       "Name": "Fugly",
@@ -8957,7 +8957,7 @@
     {
       "Name": "Manjunath",
       "Year": 2014,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Mardaani",
@@ -9012,7 +9012,7 @@
     {
       "Name": "Surkhaab",
       "Year": 2014,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Tigers",
@@ -9067,7 +9067,7 @@
     {
       "Name": "The Flip Side: A Truth That Could Not Reach You",
       "Year": 2015,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Beyond Blue: An Unnerving Tale of a Demented Mind",
@@ -9082,7 +9082,7 @@
     {
       "Name": "Gour Hari Dastaan: The Freedom File",
       "Year": 2015,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Mahesh Dattani's Hasmukh Saab ki Wasihat",
@@ -9092,12 +9092,12 @@
     {
       "Name": "Once Upon a Time in Bihar",
       "Year": 2015,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Run Bhuumi - Champs Don't Cry",
       "Year": 2015,
-      "Genre": "Family"
+      "Genre": "Other"
     },
     {
       "Name": "Silence the Court Is in Session",
@@ -9117,7 +9117,7 @@
     {
       "Name": "Any Body Can Dance 2",
       "Year": 2015,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Chal Guru Ho Jaa Shuru",
@@ -9127,7 +9127,7 @@
     {
       "Name": "Chehere: A Modern Day Classic",
       "Year": 2015,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Dozakh in Search of Heaven",
@@ -9157,7 +9157,7 @@
     {
       "Name": "Charlie Kay Chakkar Mein",
       "Year": 2015,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Dum Laga Ke Haisha",
@@ -9167,7 +9167,7 @@
     {
       "Name": "Fireflies in the Abyss",
       "Year": 2015,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Four Pillars of Basement",
@@ -9177,7 +9177,7 @@
     {
       "Name": "Guy in the blue",
       "Year": 2015,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Hogaya Dimaagh Ka Dahi",
@@ -9197,7 +9197,7 @@
     {
       "Name": "Jai Jawaan Jai Kisaan",
       "Year": 2015,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Kaun Kitney Paani Mein",
@@ -9217,7 +9217,7 @@
     {
       "Name": "Manjhi: The Mountain Man",
       "Year": 2015,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Miss Tanakpur Haazir Ho",
@@ -9242,7 +9242,7 @@
     {
       "Name": "Out of a Jam",
       "Year": 2015,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "P Se PM Tak",
@@ -9312,12 +9312,12 @@
     {
       "Name": "Bal Ganesh 3",
       "Year": 2015,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Barefoot to Goa",
       "Year": 2015,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Detective Byomkesh Bakshy!",
@@ -9347,7 +9347,7 @@
     {
       "Name": "Ek Paheli Leela",
       "Year": 2015,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Ek tha Bhujang",
@@ -9377,7 +9377,7 @@
     {
       "Name": "I Am Offended",
       "Year": 2015,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "I Love NY",
@@ -9387,7 +9387,7 @@
     {
       "Name": "Ishq Ke Parindey",
       "Year": 2015,
-      "Genre": "Music"
+      "Genre": "Other"
     },
     {
       "Name": "Jai Ho! Democracy",
@@ -9402,7 +9402,7 @@
     {
       "Name": "Luv U Alia",
       "Year": 2015,
-      "Genre": "Family"
+      "Genre": "Other"
     },
     {
       "Name": "Main Aur Charles",
@@ -9422,7 +9422,7 @@
     {
       "Name": "Muzaffarnagar Baaqi Hai",
       "Year": 2015,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Nath Ek Pratha",
@@ -9445,9 +9445,9 @@
       "Genre": "Action"
     },
     {
-      "Name": "Room: The Mystery",
+      "Name": "Room: The Other",
       "Year": 2015,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Sabki Bajegi Band",
@@ -9472,12 +9472,12 @@
     {
       "Name": "The Perfect Girl",
       "Year": 2015,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "The Silent Heroes",
       "Year": 2015,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "The Violin Player",
@@ -9502,17 +9502,17 @@
     {
       "Name": "Yaara Silly Silly",
       "Year": 2015,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Yagavarayinum Naa Kakka",
       "Year": 2015,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "3.0 Megapixel",
       "Year": 2015,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "31st October",
@@ -9532,7 +9532,7 @@
     {
       "Name": "Bezubaan Ishq",
       "Year": 2015,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "Bhaag Johnny",
@@ -9552,7 +9552,7 @@
     {
       "Name": "Breaking Free",
       "Year": 2015,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Bumper Draw",
@@ -9567,7 +9567,7 @@
     {
       "Name": "Chinar Daastaan-E-Ishq",
       "Year": 2015,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Chor Bazaari",
@@ -9607,7 +9607,7 @@
     {
       "Name": "India's Daughter",
       "Year": 2015,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "India's Daughter",
@@ -9627,7 +9627,7 @@
     {
       "Name": "Love Exchange",
       "Year": 2015,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Luckhnowi Ishq",
@@ -9637,7 +9637,7 @@
     {
       "Name": "Madmast Barkhaa",
       "Year": 2015,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Meeruthiya Gangsters",
@@ -9667,12 +9667,12 @@
     {
       "Name": "Pocket Gangsters",
       "Year": 2015,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Ramta Jogi",
       "Year": 2015,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Saari Raat",
@@ -9722,7 +9722,7 @@
     {
       "Name": "Aligarh",
       "Year": 2015,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Alone",
@@ -9762,12 +9762,12 @@
     {
       "Name": "Cecilia",
       "Year": 2015,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Cinderella",
       "Year": 2015,
-      "Genre": "Fantasy"
+      "Genre": "Other"
     },
     {
       "Name": "Dilwale",
@@ -9797,7 +9797,7 @@
     {
       "Name": "Hawaizaada",
       "Year": 2015,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Hero",
@@ -9812,7 +9812,7 @@
     {
       "Name": "Ishqedarriyaan",
       "Year": 2015,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Jaanisaar",
@@ -9872,7 +9872,7 @@
     {
       "Name": "Rahasya",
       "Year": 2015,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Rainbow",
@@ -9952,12 +9952,12 @@
     {
       "Name": "That's What It's All About: The Journey of Prem Ratan Dhan Payo",
       "Year": 2016,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Chaar Sahibzaade 2: Rise of Banda Singh Bahadur",
       "Year": 2016,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Tere Bin Laden: Dead Or Alive",
@@ -9992,10 +9992,10 @@
     {
       "Name": "Budhia Singh: Born to Run",
       "Year": 2016,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
-      "Name": "Hai Apna Dil Toh Awara",
+      "Name": "Hai Apna Dil Toh AOthera",
       "Year": 2016,
       "Genre": "Comedy"
     },
@@ -10012,22 +10012,22 @@
     {
       "Name": "M.S. Dhoni: The Untold Story",
       "Year": 2016,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
-      "Name": "MSG the Warrior: Lion Heart",
+      "Name": "MSG the Otherrior: Lion Heart",
       "Year": 2016,
       "Genre": "Action"
     },
     {
-      "Name": "Sunshine Music Tours & Travels",
+      "Name": "Sunshine Other Tours & Travels",
       "Year": 2016,
       "Genre": "Comedy"
     },
     {
       "Name": "The Last Tale of Kayenaat",
       "Year": 2016,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "1:13:7 Ek Tera Saath",
@@ -10052,12 +10052,12 @@
     {
       "Name": "Bole India Jai Bhim",
       "Year": 2016,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
-      "Name": "Chhota Bheem Himalayan Adventure",
+      "Name": "Chhota Bheem Himalayan Other",
       "Year": 2016,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Dil Toh Deewana Hai",
@@ -10077,7 +10077,7 @@
     {
       "Name": "Gauru: Journey of Courage",
       "Year": 2016,
-      "Genre": "Family"
+      "Genre": "Other"
     },
     {
       "Name": "Hello Mumbai: Salaam Mumbai",
@@ -10097,7 +10097,7 @@
     {
       "Name": "Missing on A Weekend",
       "Year": 2016,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Saansein: The Last Breath",
@@ -10132,7 +10132,7 @@
     {
       "Name": "An Insignificant Man",
       "Year": 2016,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Anatomy of Violence",
@@ -10157,7 +10157,7 @@
     {
       "Name": "Dil Sala Sanki",
       "Year": 2016,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Dongri Ka Raja",
@@ -10302,12 +10302,12 @@
     {
       "Name": "A Scandall",
       "Year": 2016,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Awesome Mausam",
       "Year": 2016,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Beiimaan Love",
@@ -10327,7 +10327,7 @@
     {
       "Name": "Chhupam Chhaai",
       "Year": 2016,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Chudail Story",
@@ -10342,7 +10342,7 @@
     {
       "Name": "Cryptic Road",
       "Year": 2016,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Dead Morning",
@@ -10387,7 +10387,7 @@
     {
       "Name": "Global Baba",
       "Year": 2016,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Hotel Salvation",
@@ -10402,7 +10402,7 @@
     {
       "Name": "Ishq Forever",
       "Year": 2016,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Jai Gangaajal",
@@ -10412,7 +10412,7 @@
     {
       "Name": "Kahaani 2",
       "Year": 2016,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Laal Rang",
@@ -10422,7 +10422,7 @@
     {
       "Name": "Love Alive",
       "Year": 2016,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Love Games",
@@ -10437,7 +10437,7 @@
     {
       "Name": "Mahayoddha Rama",
       "Year": 2016,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Mirza's Lady",
@@ -10447,7 +10447,7 @@
     {
       "Name": "Miss Teacher",
       "Year": 2016,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Mohenjo Daro",
@@ -10457,7 +10457,7 @@
     {
       "Name": "Mumbai Central",
       "Year": 2016,
-      "Genre": "Family"
+      "Genre": "Other"
     },
     {
       "Name": "Project Marathwada",
@@ -10482,7 +10482,7 @@
     {
       "Name": "Rebellious Flower",
       "Year": 2016,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Rocky Handsome",
@@ -10517,7 +10517,7 @@
     {
       "Name": "Shortcut Safari",
       "Year": 2016,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Six X",
@@ -10537,7 +10537,7 @@
     {
       "Name": "The BFG",
       "Year": 2016,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Udta Punjab",
@@ -10550,7 +10550,7 @@
       "Genre": "Drama"
     },
     {
-      "Name": "Warrior Savitri",
+      "Name": "Otherrior Savitri",
       "Year": 2016,
       "Genre": "Action"
     },
@@ -10567,7 +10567,7 @@
     {
       "Name": "Anna",
       "Year": 2016,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Autohead",
@@ -10577,7 +10577,7 @@
     {
       "Name": "Azhar",
       "Year": 2016,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Baaghi",
@@ -10667,7 +10667,7 @@
     {
       "Name": "Jango",
       "Year": 2016,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Jugni",
@@ -10692,7 +10692,7 @@
     {
       "Name": "Lion",
       "Year": 2016,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "LoveShhuda",
@@ -10702,7 +10702,7 @@
     {
       "Name": "Madaari",
       "Year": 2016,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Madly",
@@ -10722,7 +10722,7 @@
     {
       "Name": "Neerja",
       "Year": 2016,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Phobia",
@@ -10747,7 +10747,7 @@
     {
       "Name": "Sarbjit",
       "Year": 2016,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Shivaay",
@@ -10792,7 +10792,7 @@
     {
       "Name": "Traffic",
       "Year": 2016,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Trapped",
@@ -10817,17 +10817,17 @@
     {
       "Name": "Main Tumhare Bachche ki Maa Banne Waali Hoon",
       "Year": 2017,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Krish Trish and Baltiboy: Face Your Fears",
       "Year": 2017,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Bal Ganesh and the PomZom Planet",
       "Year": 2017,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Ek Haseena Thi Ek Deewana Tha",
@@ -10847,7 +10847,7 @@
     {
       "Name": "Tawai: A Voice from the Forest",
       "Year": 2017,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "1982 - A Love Marriage",
@@ -10867,7 +10867,7 @@
     {
       "Name": "Dil Jo Na Keh Saka",
       "Year": 2017,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Hind Ka Napak Ko Jawab",
@@ -10887,12 +10887,12 @@
     {
       "Name": "Majaz: Ae Gham-e-Dil Kya Karun",
       "Year": 2017,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Phir Aaya Satte Pe Satta",
       "Year": 2017,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Rahenge Sadaa Gardish Mein Taare",
@@ -10902,7 +10902,7 @@
     {
       "Name": "Sachin - A Billion Dreams",
       "Year": 2017,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Where Has the Time Gone?",
@@ -10957,7 +10957,7 @@
     {
       "Name": "Luv Shuv Pyar Vyar",
       "Year": 2017,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Patel Ki Punjabi Shaadi",
@@ -11007,7 +11007,7 @@
     {
       "Name": "U, Me Aur Ghar",
       "Year": 2017,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Walking with the Wind",
@@ -11082,7 +11082,7 @@
     {
       "Name": "Game of Ayodhya",
       "Year": 2017,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Guest iin London",
@@ -11092,7 +11092,7 @@
     {
       "Name": "Hanuman Da Damdaar",
       "Year": 2017,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "III Smoking Barrels",
@@ -11122,7 +11122,7 @@
     {
       "Name": "Kaagaz Ki Kashti",
       "Year": 2017,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Love and Shukla",
@@ -11142,7 +11142,7 @@
     {
       "Name": "My Friend's Dulhania",
       "Year": 2017,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Pinti Ka Sabun",
@@ -11157,7 +11157,7 @@
     {
       "Name": "Sallu Ki Shaadi",
       "Year": 2017,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Seeking True Love",
@@ -11287,7 +11287,7 @@
     {
       "Name": "Game Over",
       "Year": 2017,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Golmaal Again",
@@ -11352,7 +11352,7 @@
     {
       "Name": "Masala Chai",
       "Year": 2017,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Mirror Game",
@@ -11402,7 +11402,7 @@
     {
       "Name": "Pirates 1.0",
       "Year": 2017,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Poster Boys",
@@ -11422,17 +11422,17 @@
     {
       "Name": "Ram Ratan",
       "Year": 2017,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Ranchi Diaries",
       "Year": 2017,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Rediscovering India",
       "Year": 2017,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Running Shaadi",
@@ -11457,7 +11457,7 @@
     {
       "Name": "Tera Intezaar",
       "Year": 2017,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "The Brawler",
@@ -11472,7 +11472,7 @@
     {
       "Name": "The Jinx",
       "Year": 2017,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "The Rally",
@@ -11507,10 +11507,10 @@
     {
       "Name": "Viceroy's House",
       "Year": 2017,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
-      "Name": "Victor's History",
+      "Name": "Victor's Other",
       "Year": 2017,
       "Genre": "Comedy"
     },
@@ -11537,7 +11537,7 @@
     {
       "Name": "Ashley",
       "Year": 2017,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Avsar",
@@ -11552,7 +11552,7 @@
     {
       "Name": "Bewajah",
       "Year": 2017,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Bhamashah",
@@ -11565,7 +11565,7 @@
       "Genre": "Comedy"
     },
     {
-      "Name": "Bhanwarey",
+      "Name": "BhanOtherey",
       "Year": 2017,
       "Genre": "Comedy"
     },
@@ -11587,7 +11587,7 @@
     {
       "Name": "Bitch",
       "Year": 2017,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Boichek",
@@ -11597,7 +11597,7 @@
     {
       "Name": "Buchcha",
       "Year": 2017,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Chauhar",
@@ -11692,7 +11692,7 @@
     {
       "Name": "Maatr",
       "Year": 2017,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Machine",
@@ -11707,7 +11707,7 @@
     {
       "Name": "Maroon",
       "Year": 2017,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Mom",
@@ -11732,7 +11732,7 @@
     {
       "Name": "Muskurahatein",
       "Year": 2017,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Narayan",
@@ -11752,7 +11752,7 @@
     {
       "Name": "Noor",
       "Year": 2017,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Omerta",
@@ -11887,7 +11887,7 @@
     {
       "Name": "Tony: My Mentor the Serial Killer",
       "Year": 2018,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Har Kisse Ke Hisse: Kaamyaab",
@@ -11897,7 +11897,7 @@
     {
       "Name": "Kaashi in Search of Ganga",
       "Year": 2018,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Mard Ko Dard Nahin Hota",
@@ -11905,7 +11905,7 @@
       "Genre": "Action"
     },
     {
-      "Name": "Mudda hai Bhookh: The War",
+      "Name": "Mudda hai Bhookh: The Other",
       "Year": 2018,
       "Genre": "Drama"
     },
@@ -11947,12 +11947,12 @@
     {
       "Name": "Boys Who Like Girls",
       "Year": 2018,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Downup the Exit 796",
       "Year": 2018,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Ekkees Tareekh Shubh Muhurat",
@@ -12107,7 +12107,7 @@
     {
       "Name": "Jannat E Milan",
       "Year": 2018,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "Khajoor Pe Atke",
@@ -12122,7 +12122,7 @@
     {
       "Name": "Kuchh Bheege Alfaaz",
       "Year": 2018,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Kutte Ki Dum",
@@ -12147,7 +12147,7 @@
     {
       "Name": "My Birthday Song",
       "Year": 2018,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Nanu Ki Jaanu",
@@ -12157,12 +12157,12 @@
     {
       "Name": "One Night Out",
       "Year": 2018,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Shohrat the Trap",
       "Year": 2018,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Thugs of Hindostan",
@@ -12192,7 +12192,7 @@
     {
       "Name": "22 Days",
       "Year": 2018,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "3 Storeys",
@@ -12277,7 +12277,7 @@
     {
       "Name": "Hamara Tiranga",
       "Year": 2018,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Helicopter Eela",
@@ -12367,7 +12367,7 @@
     {
       "Name": "Namdev Bhau",
       "Year": 2018,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Number Game",
@@ -12402,7 +12402,7 @@
     {
       "Name": "Phir Se...",
       "Year": 2018,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Play This",
@@ -12422,7 +12422,7 @@
     {
       "Name": "Raja Abroadiya",
       "Year": 2018,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Rajma Chawal",
@@ -12465,14 +12465,14 @@
       "Genre": "Action"
     },
     {
-      "Name": "Vishwaroopam 2",
+      "Name": "VishOtheroopam 2",
       "Year": 2018,
       "Genre": "Action"
     },
     {
       "Name": "Vodka Diaries",
       "Year": 2018,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Welcome M1LL10NS",
@@ -12647,7 +12647,7 @@
     {
       "Name": "Karwaan",
       "Year": 2018,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Kathor",
@@ -12667,7 +12667,7 @@
     {
       "Name": "Krina",
       "Year": 2018,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Lovefucked",
@@ -12682,7 +12682,7 @@
     {
       "Name": "Manto",
       "Year": 2018,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Medal",
@@ -12692,7 +12692,7 @@
     {
       "Name": "Megalopolis",
       "Year": 2018,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Mehsampur",
@@ -12762,7 +12762,7 @@
     {
       "Name": "Pari",
       "Year": 2018,
-      "Genre": "Fantasy"
+      "Genre": "Other"
     },
     {
       "Name": "Pataakha",
@@ -12797,7 +12797,7 @@
     {
       "Name": "Redrum",
       "Year": 2018,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Reva",
@@ -12807,17 +12807,17 @@
     {
       "Name": "Roshni",
       "Year": 2018,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Sanju",
       "Year": 2018,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Sarabha",
       "Year": 2018,
-      "Genre": "Fantasy"
+      "Genre": "Other"
     },
     {
       "Name": "Silvat",
@@ -12842,7 +12842,7 @@
     {
       "Name": "Soorma",
       "Year": 2018,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Stree",
@@ -12852,7 +12852,7 @@
     {
       "Name": "Tishnagi",
       "Year": 2018,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Tumbbad",
@@ -12867,7 +12867,7 @@
     {
       "Name": "Who",
       "Year": 2018,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Zero",
@@ -12917,12 +12917,12 @@
     {
       "Name": "Eiga Doraemon: Nobita no getsumen tansaki",
       "Year": 2019,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "I Am Alone, So Are You...",
       "Year": 2019,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Khamiyaza: Journey of a Common Man",
@@ -12942,7 +12942,7 @@
     {
       "Name": "1978: A Teen Night Out",
       "Year": 2019,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "A Gift of Love: Sifar",
@@ -12952,7 +12952,7 @@
     {
       "Name": "Chhota Bheem Kung Fu Dhamaka",
       "Year": 2019,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Josef - Born in Grace",
@@ -12975,9 +12975,9 @@
       "Genre": "Action"
     },
     {
-      "Name": "Adventure Kids Hindi Film",
+      "Name": "Other Kids Hindi Film",
       "Year": 2019,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "De De Pyaar De",
@@ -13052,12 +13052,12 @@
     {
       "Name": "The Accidental Prime Minister",
       "Year": 2019,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "The Great Indian Escape",
       "Year": 2019,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "The Sky Is Pink",
@@ -13077,7 +13077,7 @@
     {
       "Name": "Umakant Pandey Purush Ya",
       "Year": 2019,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "What are the Odds?",
@@ -13130,19 +13130,19 @@
       "Genre": "Drama"
     },
     {
-      "Name": "Family of Thakurganj",
+      "Name": "Other of Thakurganj",
       "Year": 2019,
       "Genre": "Action"
     },
     {
       "Name": "Gho Gho Rani",
       "Year": 2019,
-      "Genre": "History"
+      "Genre": "Other"
     },
     {
       "Name": "God of gods",
       "Year": 2019,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Hansa: Ek Sanyog",
@@ -13167,7 +13167,7 @@
     {
       "Name": "Jai Chhathi Maa",
       "Year": 2019,
-      "Genre": "Family"
+      "Genre": "Other"
     },
     {
       "Name": "Jhootha Kahin Ka",
@@ -13207,7 +13207,7 @@
     {
       "Name": "Moksh To Maya",
       "Year": 2019,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Mudda 370 J&K",
@@ -13217,7 +13217,7 @@
     {
       "Name": "PM Narendra Modi",
       "Year": 2019,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Ram Ki Janmabhoomi",
@@ -13242,7 +13242,7 @@
     {
       "Name": "Saand Ki Aankh",
       "Year": 2019,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Shaadi ke patasey",
@@ -13317,7 +13317,7 @@
     {
       "Name": "22 Yards",
       "Year": 2019,
-      "Genre": "Sport"
+      "Genre": "Other"
     },
     {
       "Name": "3 Dev",
@@ -13337,7 +13337,7 @@
     {
       "Name": "99 Songs",
       "Year": 2019,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "Aani Maani",
@@ -13377,7 +13377,7 @@
     {
       "Name": "Barot House",
       "Year": 2019,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Batla House",
@@ -13387,7 +13387,7 @@
     {
       "Name": "Battalion 609",
       "Year": 2019,
-      "Genre": "War"
+      "Genre": "Other"
     },
     {
       "Name": "Bitter Chestnut",
@@ -13397,7 +13397,7 @@
     {
       "Name": "Bombay Rose",
       "Year": 2019,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Bypass Road",
@@ -13427,7 +13427,7 @@
     {
       "Name": "Darkness Visible",
       "Year": 2019,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Devil's Daughter",
@@ -13522,7 +13522,7 @@
     {
       "Name": "Little Baby",
       "Year": 2019,
-      "Genre": "Family"
+      "Genre": "Other"
     },
     {
       "Name": "Luka Chuppi",
@@ -13550,19 +13550,19 @@
       "Genre": "Drama"
     },
     {
-      "Name": "Music Teacher",
+      "Name": "Other Teacher",
       "Year": 2019,
       "Genre": "Drama"
     },
     {
       "Name": "Nirvana Inn",
       "Year": 2019,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "NTR Kathanayakudu",
       "Year": 2019,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Odd Couple",
@@ -13612,7 +13612,7 @@
     {
       "Name": "Super 30",
       "Year": 2019,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Tara Mira",
@@ -13627,7 +13627,7 @@
     {
       "Name": "The Body",
       "Year": 2019,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "Total Dhamaal",
@@ -13642,7 +13642,7 @@
     {
       "Name": "Zindagi Tumse",
       "Year": 2019,
-      "Genre": "Family"
+      "Genre": "Other"
     },
     {
       "Name": "#Yaaram",
@@ -13652,7 +13652,7 @@
     {
       "Name": 706,
       "Year": 2019,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Aadhaar",
@@ -13737,7 +13737,7 @@
     {
       "Name": "Cypher",
       "Year": 2019,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Daawat-e-Biryani",
@@ -13757,7 +13757,7 @@
     {
       "Name": "Dhuusar",
       "Year": 2019,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Drive",
@@ -13862,7 +13862,7 @@
     {
       "Name": "LuvUTurn",
       "Year": 2019,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Malaal",
@@ -13907,7 +13907,7 @@
     {
       "Name": "Penalty",
       "Year": 2019,
-      "Genre": "Sport"
+      "Genre": "Other"
     },
     {
       "Name": "Photograph",
@@ -13952,7 +13952,7 @@
     {
       "Name": "Risknamaa",
       "Year": 2019,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Scotland",
@@ -13962,12 +13962,12 @@
     {
       "Name": "Setters",
       "Year": 2019,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Sindhustan",
       "Year": 2019,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Singham",
@@ -13982,7 +13982,7 @@
     {
       "Name": "Thackeray",
       "Year": 2019,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Unmatta",
@@ -13992,7 +13992,7 @@
     {
       "Name": "Upeksha",
       "Year": 2019,
-      "Genre": "Family"
+      "Genre": "Other"
     },
     {
       "Name": "Upstarts",
@@ -14010,12 +14010,12 @@
       "Genre": "Action"
     },
     {
-      "Name": "War",
+      "Name": "Other",
       "Year": 2019,
       "Genre": "Action"
     },
     {
-      "Name": "Ek Sainik - The Tale of a warrior",
+      "Name": "Ek Sainik - The Tale of a Otherrior",
       "Year": 2020,
       "Genre": "Action"
     },
@@ -14037,7 +14037,7 @@
     {
       "Name": "Fukrey Boyzzz: Space Mein Fukrapanti",
       "Year": 2020,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Gunjan Saxena: The Kargil Girl",
@@ -14052,7 +14052,7 @@
     {
       "Name": "Little Singham: Kaal Ka Badla",
       "Year": 2020,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "A Game Called Relationship",
@@ -14062,12 +14062,12 @@
     {
       "Name": "All Ladies Do It",
       "Year": 2020,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Astounding Courage in Distress",
       "Year": 2020,
-      "Genre": "Family"
+      "Genre": "Other"
     },
     {
       "Name": "Atithi Kab Aoge Shhamshan",
@@ -14110,19 +14110,19 @@
       "Genre": "Comedy"
     },
     {
-      "Name": "Tanhaji: The Unsung Warrior",
+      "Name": "Tanhaji: The Unsung Otherrior",
       "Year": 2020,
       "Genre": "Action"
     },
     {
       "Name": "Teri Diwali Meri Christmas",
       "Year": 2020,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "The Journey Weekend Night",
       "Year": 2020,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Yahan Sabhi Gyani Hain",
@@ -14217,7 +14217,7 @@
     {
       "Name": "My Client's Wife",
       "Year": 2020,
-      "Genre": "Mystery"
+      "Genre": "Other"
     },
     {
       "Name": "No Man's Truth",
@@ -14237,7 +14237,7 @@
     {
       "Name": "Regards & Peace",
       "Year": 2020,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Run Zindagi Run",
@@ -14247,7 +14247,7 @@
     {
       "Name": "Sab Kushal Mangal",
       "Year": 2020,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Street Dancer 3D",
@@ -14257,7 +14257,7 @@
     {
       "Name": "The Hidden Strike",
       "Year": 2020,
-      "Genre": "War"
+      "Genre": "Other"
     },
     {
       "Name": "The Hundred Bucks",
@@ -14312,12 +14312,12 @@
     {
       "Name": "Black Rose",
       "Year": 2020,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Captain Vidyut",
       "Year": 2020,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Chaman Bahaar",
@@ -14357,7 +14357,7 @@
     {
       "Name": "Gul Makai",
       "Year": 2020,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Gulabo Sitabo",
@@ -14427,7 +14427,7 @@
     {
       "Name": "Shakuntala Devi",
       "Year": 2020,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Shehri Gabru",
@@ -14467,7 +14467,7 @@
     {
       "Name": "X Zone",
       "Year": 2020,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Yeh Ballet",
@@ -14477,7 +14477,7 @@
     {
       "Name": "Ateet",
       "Year": 2020,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Awasaan",
@@ -14487,7 +14487,7 @@
     {
       "Name": "Bamfaad",
       "Year": 2020,
-      "Genre": "Romance"
+      "Genre": "Other"
     },
     {
       "Name": "Bulbbul",
@@ -14507,7 +14507,7 @@
     {
       "Name": "Chhapaak",
       "Year": 2020,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Choked",
@@ -14532,7 +14532,7 @@
     {
       "Name": "Dhira",
       "Year": 2020,
-      "Genre": "Animation"
+      "Genre": "Other"
     },
     {
       "Name": "Doordarshan",
@@ -14557,7 +14557,7 @@
     {
       "Name": "Hacked",
       "Year": 2020,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Halahal",
@@ -14642,12 +14642,12 @@
     {
       "Name": "Scorned",
       "Year": 2020,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Shakeela",
       "Year": 2020,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Shikara",
@@ -14737,7 +14737,7 @@
     {
       "Name": "Main Mulayam Singh Yadav",
       "Year": 2021,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Sandeep Aur Pinky Faraar",
@@ -14767,7 +14767,7 @@
     {
       "Name": "Koi Jaane Na",
       "Year": 2021,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "Madam Chief Minister",
@@ -14797,17 +14797,17 @@
     {
       "Name": "Searching for Sheela",
       "Year": 2021,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "Secrets of Sinauli",
       "Year": 2021,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "The Big Bull",
       "Year": 2021,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "The White Tiger",
@@ -14817,7 +14817,7 @@
     {
       "Name": "Time to Dance",
       "Year": 2021,
-      "Genre": "Musical"
+      "Genre": "Other"
     },
     {
       "Name": "Tuesdays and Fridays",
@@ -14827,7 +14827,7 @@
     {
       "Name": "Writing with Fire",
       "Year": 2021,
-      "Genre": "Documentary"
+      "Genre": "Other"
     },
     {
       "Name": "12 O'Clock",
@@ -14837,7 +14837,7 @@
     {
       "Name": "8119 Miles",
       "Year": 2021,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Ajeeb Daastaans",
@@ -14862,7 +14862,7 @@
     {
       "Name": "Half Songs",
       "Year": 2021,
-      "Genre": "Music"
+      "Genre": "Other"
     },
     {
       "Name": "Hello Charlie",
@@ -14907,7 +14907,7 @@
     {
       "Name": "Tank Cleaner",
       "Year": 2021,
-      "Genre": "Thriller"
+      "Genre": "Other"
     },
     {
       "Name": "The Power",
@@ -14927,12 +14927,12 @@
     {
       "Name": "Baikunth",
       "Year": 2021,
-      "Genre": "Family"
+      "Genre": "Other"
     },
     {
       "Name": "Boxed",
       "Year": 2021,
-      "Genre": "Adventure"
+      "Genre": "Other"
     },
     {
       "Name": "Flight",
@@ -14957,7 +14957,7 @@
     {
       "Name": "Kaagaz",
       "Year": 2021,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Machaan",
@@ -14987,7 +14987,7 @@
     {
       "Name": "Refl3ct",
       "Year": 2021,
-      "Genre": "Sci-Fi"
+      "Genre": "Other"
     },
     {
       "Name": "RK/RKAY",
@@ -15002,7 +15002,7 @@
     {
       "Name": "Saina",
       "Year": 2021,
-      "Genre": "Biography"
+      "Genre": "Other"
     },
     {
       "Name": "Shaadisthan",

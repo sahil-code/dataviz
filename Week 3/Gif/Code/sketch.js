@@ -8,7 +8,7 @@ function preload() {
 
 i = 0;
 timeoutperiod = 0.0005;
-stopper = 0
+stopper = 0;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
