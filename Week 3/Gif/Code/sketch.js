@@ -6,7 +6,7 @@ function preload() {
   totalMovies = 3005
 }
 
-i = 2800;
+i = 0;
 timeoutperiod = 0.0005;
 stopper = 0
 
