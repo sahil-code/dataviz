@@ -1,4 +1,4 @@
-# Week 2: DataViz with IIP
+# Week 1: DataViz with IIP
 
 You have made an alien friend from Mars.
 They are curious about your life. The catch is - they don’t understand human text but do understand numbers, shapes, geometry, colors, symbols, and signs.
