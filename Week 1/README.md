@@ -8,8 +8,6 @@ Constrain: You have to include at least one data point that is qualitative, one 
 
 ![](FinalFile.jpg)
 
-[final p5.js](https://editor.p5js.org/Sahil_Agarwal/full/hb1mVgQXb)
-
 - basic concept: centered around my [all time favourites playlist](https://open.spotify.com/playlist/3kW1TH8iSikbslp4YunyNy?si=13a57ac3bd2949a7) due to right amount of songs
 - goals:
   - [x] qualitative data point: emotions
