@@ -1,0 +1,74 @@
+[
+    {
+      "Words": 1,
+      "Revenue": 34.99,
+      "Profitability": 0.98,
+      "Profit": 12.56,
+      "Budget": 22.43,
+      "Duration": 129.89,
+      "Rating": 5.56,
+      "Screens": 805,
+      "Votes": 7005,
+      "Count": 371
+    },
+    {
+      "Words": 2,
+      "Revenue": 45.21,
+      "Profitability": 1.22,
+      "Profit": 20.20,
+      "Budget": 25.01,
+      "Duration": 128.56,
+      "Rating": 5.54,
+      "Screens": 960,
+      "Votes": 7319,
+      "Count": 248
+    },
+    {
+      "Words": 3,
+      "Revenue": 27.83,
+      "Profitability": 0.94,
+      "Profit": 10.69,
+      "Budget": 17.13,
+      "Duration": 127.38,
+      "Rating": 5.41,
+      "Screens": 662,
+      "Votes": 5213,
+      "Count": 197
+    },
+    {
+      "Words": 4,
+      "Revenue": 27.72,
+      "Profitability": 0.96,
+      "Profit": 11.70,
+      "Budget": 16.03,
+      "Duration": 129.11,
+      "Rating": 5.41,
+      "Screens": 621,
+      "Votes": 4955,
+      "Count": 123
+    },
+    {
+      "Words": 5,
+      "Revenue": 21.09,
+      "Profitability": 0.82,
+      "Profit": 7.16,
+      "Budget": 13.93,
+      "Duration": 129.47,
+      "Rating": 5.38,
+      "Screens": 597,
+      "Votes": 3676,
+      "Count": 34
+    },
+    {
+      "Words": 6,
+      "Revenue": 17.83,
+      "Profitability": 0.76,
+      "Profit": 5.52,
+      "Budget": 12.31,
+      "Duration": 129.63,
+      "Rating": 5.23,
+      "Screens": 531,
+      "Votes": 4716,
+      "Count": 8
+    }
+]

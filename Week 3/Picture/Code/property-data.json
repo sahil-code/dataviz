@@ -1,0 +1,56 @@
+{
+  "Count": {
+      "MaxVal": 400,
+      "Unit": "",
+      "Color": "Grey",
+      "inUse": 0
+    },
+  "Revenue": {
+      "MaxVal": 25,
+      "Unit": "Cr",
+      "Color": "Yellow",
+      "inUse": 1
+  },
+  "Budget": {
+      "MaxVal": 15,
+      "Unit": "Cr",
+      "Color": "Red",
+      "inUse": 0
+  },
+  "Duration": {
+      "MaxVal": 4,
+      "Unit": "Min",
+      "Color": "Purple",
+      "inUse": 0
+  },
+  "Profitability": {
+      "MaxVal": 0.5,
+      "Unit": "",
+      "Color": "Green",
+      "inUse": 1
+    },
+  "Rating": {
+      "MaxVal": 0.5,
+      "Unit": "",
+      "Color": "Blue",
+      "inUse": 1
+    },
+  "Screens": {
+      "MaxVal": 300,
+      "Unit": "",
+      "Color": "Blue",
+      "inUse": 0
+    },
+  "Profit": {
+      "MaxVal": 10,
+      "Unit": "Cr",
+      "Color": "Green",
+      "inUse": 0
+    },
+  "Votes": {
+      "MaxVal": 3500,
+      "Unit": "",
+      "Color": "Yellow",
+      "inUse": 0
+    }
+}
