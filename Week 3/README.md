@@ -23,8 +23,19 @@
   - [ ] catchy title: can't seem to figure this one out
   - [x] incorporate images: to figure out how to position on page
 - despite the final product being a png, wanted to focus on quality coding (since i haven't coded in a while), and creating code which could be mix-and-matched with ease.
-- [ ] pending: add feature to input the desired variables in p5.js itself, when i'm free
-
+- additional work done:
+  - [x] add feature to input the desired variables in p5.js itself
+  - [x] make buttons look pretty
+  - [x] make the title visible invisible (umang's advice)
+- hours spent: 9-10 hours
 
 ## GIF
-- pending
+
+[final p5.js](https://editor.p5js.org/Sahil_Agarwal/sketches/hTsu7Y_zP)
+
+- basic concept: visualise the number of movies per genre per year, and an overall table
+- goals:
+  - [x] movement: initiate movement
+  - [x] new perspective: printing the totals table by overwriting 20 tables instead of making complicated shapes
+  - [ ] make it look pretty: struggled with this, but let it go since assignment focused on coding.
+- hours spent: 4-5 hours
