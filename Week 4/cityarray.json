@@ -1,0 +1,248 @@
+{
+    "Delhi": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 28.6517178,
+        "longitude": 77.2219388
+    },
+    "Cuttack": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 20.4686,
+        "longitude": 85.8792
+    },
+    "Jodhpur": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 26.2967719,
+        "longitude": 73.0351433
+    },
+    "Guwahati": {
+        "count": 2,
+        "curpos": 0,
+        "latitude": 26.1805978,
+        "longitude": 91.753943
+    },
+    "Lucknow": {
+        "count": 3,
+        "curpos": 0,
+        "latitude": 26.8381,
+        "longitude": 80.9346001
+    },
+    "Mumbai": {
+        "count": 2,
+        "curpos": 0,
+        "latitude": 19.0785451,
+        "longitude": 72.878176
+    },
+    "Gwalior": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 26.2037247,
+        "longitude": 78.1573628
+    },
+    "Visakhapatnam": {
+        "count": 2,
+        "curpos": 0,
+        "latitude": 17.7231276,
+        "longitude": 83.3012842
+    },
+    "Kolkata": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 22.5414185,
+        "longitude": 88.35769124388872
+    },
+    "Amritsar": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 31.6343083,
+        "longitude": 74.8736788
+    },
+    "Jalandhar (Jullundur)": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 31.3223424,
+        "longitude": 75.6326857
+    },
+    "Greater Noida": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 28.4670734,
+        "longitude": 77.5137649
+    },
+    "Kanpur": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 26.4609135,
+        "longitude": 80.3217588
+    },
+    "Thiruvananthapuram": {
+        "count": 2,
+        "curpos": 0,
+        "latitude": 8.4882267,
+        "longitude": 76.947551
+    },
+    "Mumbai (Bombay)": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 18.9414868,
+        "longitude": 72.8238464
+    },
+    "Dharamsala": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 32.2143039,
+        "longitude": 76.3196717
+    },
+    "Indore": {
+        "count": 2,
+        "curpos": 0,
+        "latitude": 22.7203616,
+        "longitude": 75.8681996
+    },
+    "Vijayawada": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 16.5087586,
+        "longitude": 80.6185102
+    },
+    "New Delhi, Delhi": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 28.6138954,
+        "longitude": 77.2090057
+    },
+    "Ranchi": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 23.3700501,
+        "longitude": 85.3250387
+    },
+    "Jamshedpur": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 22.8015194,
+        "longitude": 86.2029579
+    },
+    "Hyderabad (Deccan)": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 17.39183825,
+        "longitude": 78.46753909779946
+    },
+    "Bengaluru, Bangalore": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 12.9767936,
+        "longitude": 77.590082
+    },
+    "Chennai": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 13.0836939,
+        "longitude": 80.270186
+    },
+    "Rajkot": {
+        "count": 2,
+        "curpos": 0,
+        "latitude": 22.3053263,
+        "longitude": 70.8028377
+    },
+    "Pune": {
+        "count": 2,
+        "curpos": 0,
+        "latitude": 18.521428,
+        "longitude": 73.8544541
+    },
+    "Patna": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 25.6093239,
+        "longitude": 85.1235252
+    },
+    "Vadodara (Baroda)": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 22.3128601,
+        "longitude": 73.2231742
+    },
+    "Faridabad": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 28.4031478,
+        "longitude": 77.3105561
+    },
+    "Ahmedabad": {
+        "count": 2,
+        "curpos": 0,
+        "latitude": 23.0216238,
+        "longitude": 72.5797068
+    },
+    "Chennai (Madras)": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 13.059021099999999,
+        "longitude": 80.28138336226445
+    },
+    "Kochi": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 9.931308,
+        "longitude": 76.2674136
+    },
+    "Margao": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 15.272923,
+        "longitude": 73.9583159
+    },
+    "Mohali, Chandigarh": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 30.7442722,
+        "longitude": 76.6511232
+    },
+    "Dehra Dun": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 30.3255646,
+        "longitude": 78.0436813
+    },
+    "Hyderabad": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 17.360589,
+        "longitude": 78.4740613
+    },
+    "Vadodara": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 22.2973142,
+        "longitude": 73.1942567
+    },
+    "Jaipur": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 26.9154576,
+        "longitude": 75.8189817
+    },
+    "Chandigarh": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 30.7334421,
+        "longitude": 76.7797143
+    },
+    "Srinagar": {
+        "count": 1,
+        "curpos": 0,
+        "latitude": 34.0747444,
+        "longitude": 74.8204443
+    },
+    "Nagpur": {
+        "count": 2,
+        "curpos": 0,
+        "latitude": 21.1498134,
+        "longitude": 79.0820556
+    }
+}

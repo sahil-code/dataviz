@@ -1,0 +1,314 @@
+[
+    {
+        "name": "Arun Jaitley Stadium",
+        "city": "Delhi",
+        "batsman": "V Kohli (India)",
+        "bowler": "A Kumble (India)"
+    },
+    {
+        "name": "Barabati Stadium",
+        "city": "Cuttack",
+        "batsman": "D B Vengsarkar (India)",
+        "bowler": "N D Hirwani (India)"
+    },
+    {
+        "name": "Barkatullah Khan Stadium",
+        "city": "Jodhpur",
+        "batsman": "S R Tendulkar (India)",
+        "bowler": "N D Hirwani (India)"
+    },
+    {
+        "name": "Barsapara Cricket Stadium",
+        "city": "Guwahati",
+        "batsman": "R G Sharma (India)",
+        "bowler": "N D Hirwani (India)"
+    },
+    {
+        "name": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+        "city": "Lucknow",
+        "batsman": "S S J Brooks (West Indies)",
+        "bowler": "R R S Cornwall (West Indies)"
+    },
+    {
+        "name": "Brabourne Stadium",
+        "city": "Mumbai",
+        "batsman": "V Sehwag (India)",
+        "bowler": "B S Chandrasekhar (India)"
+    },
+    {
+        "name": "Captain Roop Singh Stadium",
+        "city": "Gwalior",
+        "batsman": "S R Tendulkar (India)",
+        "bowler": "B S Chandrasekhar (India)"
+    },
+    {
+        "name": "Dr YS Rajasekhara Reddy Cricket Stadium",
+        "city": "Visakhapatnam",
+        "batsman": "M A Agarwal (India)",
+        "bowler": "R Ashwin (India)"
+    },
+    {
+        "name": "Eden Gardens",
+        "city": "Kolkata",
+        "batsman": "V V S Laxman (India)",
+        "bowler": "J Srinath (India)"
+    },
+    {
+        "name": "Gandhi Sports Complex Ground",
+        "city": "Amritsar",
+        "batsman": "N J Astle (New Zealand)",
+        "bowler": "J Srinath (India)"
+    },
+    {
+        "name": "Gandhi Stadium",
+        "city": "Jalandhar (Jullundur)",
+        "batsman": "A D Gaekwad (India)",
+        "bowler": "Wasim Raja (Pakistan)"
+    },
+    {
+        "name": "Greater Noida Sports Complex Ground",
+        "city": "Greater Noida",
+        "batsman": "W T S Porterfield (Ireland)",
+        "bowler": "Wasim Raja (Pakistan)"
+    },
+    {
+        "name": "Green Park",
+        "city": "Kanpur",
+        "batsman": "S F A Bacchus (West Indies)",
+        "bowler": "J M Patel (India)"
+    },
+    {
+        "name": "Greenfield International Stadium",
+        "city": "Thiruvananthapuram",
+        "batsman": "R G Sharma (India)",
+        "bowler": "J M Patel (India)"
+    },
+    {
+        "name": "Gymkhana Ground",
+        "city": "Mumbai (Bombay)",
+        "batsman": "B H Valentine (England)",
+        "bowler": "M S Nichols (England)"
+    },
+    {
+        "name": "Himachal Pradesh Cricket Association Stadium",
+        "city": "Dharamsala",
+        "batsman": "S P D Smith (Australia)",
+        "bowler": "U T Yadav (India)"
+    },
+    {
+        "name": "Holkar Cricket Stadium",
+        "city": "Indore",
+        "batsman": "M A Agarwal (India)",
+        "bowler": "R Ashwin (India)"
+    },
+    {
+        "name": "Indira Gandhi Stadium",
+        "city": "Vijayawada",
+        "batsman": "M N Samuels (West Indies)",
+        "bowler": "R Ashwin (India)"
+    },
+    {
+        "name": "Indira Priyadarshini Stadium",
+        "city": "Visakhapatnam",
+        "batsman": "M E Waugh (Australia)",
+        "bowler": "R Ashwin (India)"
+    },
+    {
+        "name": "Jawaharlal Nehru Stadium (Delhi)",
+        "city": "New Delhi, Delhi",
+        "batsman": "R J Shastri (India)",
+        "bowler": "R Ashwin (India)"
+    },
+    {
+        "name": "JSCA International Stadium Complex",
+        "city": "Ranchi",
+        "batsman": "R G Sharma (India)",
+        "bowler": "R A Jadeja (India)"
+    },
+    {
+        "name": "KD Singh \"Babu\" Stadium",
+        "city": "Lucknow",
+        "batsman": "S R Tendulkar (India)",
+        "bowler": "A Kumble (India)"
+    },
+    {
+        "name": "Keenan Stadium",
+        "city": "Jamshedpur",
+        "batsman": "I V A Richards (West Indies)",
+        "bowler": "A Kumble (India)"
+    },
+    {
+        "name": "Lal Bahadur Shastri Stadium",
+        "city": "Hyderabad (Deccan)",
+        "batsman": "P R Umrigar (India)",
+        "bowler": "E A S Prasanna (India)"
+    },
+    {
+        "name": "M Chinnaswamy Stadium",
+        "city": "Bengaluru, Bangalore",
+        "batsman": "Younis Khan (Pakistan)",
+        "bowler": "Harbhajan Singh (India)"
+    },
+    {
+        "name": "MA Chidambaram Stadium",
+        "city": "Chennai",
+        "batsman": "V Sehwag (India)",
+        "bowler": "N D Hirwani (India)"
+    },
+    {
+        "name": "Madhavrao Scindia Cricket Ground",
+        "city": "Rajkot",
+        "batsman": "T M Dilshan (Sri Lanka)",
+        "bowler": "N D Hirwani (India)"
+    },
+    {
+        "name": "Maharashtra Cricket Association Stadium",
+        "city": "Pune",
+        "batsman": "V Kohli (India)",
+        "bowler": "S N J O'Keefe (Australia)"
+    },
+    {
+        "name": "Moin-ul-Haq Stadium",
+        "city": "Patna",
+        "batsman": "P A de Silva (Sri Lanka)",
+        "bowler": "S N J O'Keefe (Australia)"
+    },
+    {
+        "name": "Moti Bagh Stadium",
+        "city": "Vadodara (Baroda)",
+        "batsman": "M Azharuddin (India)",
+        "bowler": "S N J O'Keefe (Australia)"
+    },
+    {
+        "name": "Nahar Singh Stadium",
+        "city": "Faridabad",
+        "batsman": "M Amarnath (India)",
+        "bowler": "S N J O'Keefe (Australia)"
+    },
+    {
+        "name": "Narendra Modi Stadium",
+        "city": "Ahmedabad",
+        "batsman": "D P M D Jayawardene (Sri Lanka)",
+        "bowler": "A R Patel (India)"
+    },
+    {
+        "name": "Nehru Stadium (Chennai)",
+        "city": "Chennai (Madras)",
+        "batsman": "M H Mankad (India)",
+        "bowler": "R G Nadkarni (India)"
+    },
+    {
+        "name": "Nehru Stadium (Guwahati)",
+        "city": "Guwahati",
+        "batsman": "D Mongia (India)",
+        "bowler": "R G Nadkarni (India)"
+    },
+    {
+        "name": "Nehru Stadium (Indore)",
+        "city": "Indore",
+        "batsman": "S R Tendulkar (India)",
+        "bowler": "R G Nadkarni (India)"
+    },
+    {
+        "name": "Nehru Stadium (Kochi)",
+        "city": "Kochi",
+        "batsman": "M N Samuels (West Indies)",
+        "bowler": "R G Nadkarni (India)"
+    },
+    {
+        "name": "Nehru Stadium (Margao)",
+        "city": "Margao",
+        "batsman": "Yuvraj Singh (India)",
+        "bowler": "R G Nadkarni (India)"
+    },
+    {
+        "name": "Nehru Stadium (Pune)",
+        "city": "Pune",
+        "batsman": "M E Waugh (Australia)",
+        "bowler": "R G Nadkarni (India)"
+    },
+    {
+        "name": "Punjab Cricket Association IS Bindra Stadium",
+        "city": "Mohali, Chandigarh",
+        "batsman": "S Dhawan (India)",
+        "bowler": "R A Jadeja (India)"
+    },
+    {
+        "name": "Rajiv Gandhi International Cricket Stadium",
+        "city": "Dehra Dun",
+        "batsman": "Rahmat Shah (Afghanistan)",
+        "bowler": "Rashid Khan (Afghanistan)"
+    },
+    {
+        "name": "Rajiv Gandhi International Stadium",
+        "city": "Hyderabad",
+        "batsman": "B B McCullum (New Zealand)",
+        "bowler": "R Ashwin (India)"
+    },
+    {
+        "name": "Reliance Stadium",
+        "city": "Vadodara",
+        "batsman": "G Gambhir (India)",
+        "bowler": "R Ashwin (India)"
+    },
+    {
+        "name": "Sardar Vallabhai Patel Stadium",
+        "city": "Ahmedabad",
+        "batsman": "M W Gatting (England)",
+        "bowler": "R Ashwin (India)"
+    },
+    {
+        "name": "Saurashtra Cricket Association Stadium",
+        "city": "Rajkot",
+        "batsman": "V Kohli (India)",
+        "bowler": "A U Rashid (England)"
+    },
+    {
+        "name": "Sawai Mansingh Stadium",
+        "city": "Jaipur",
+        "batsman": "R J Shastri (India)",
+        "bowler": "G Sharma (India)"
+    },
+    {
+        "name": "Sector 16 Stadium",
+        "city": "Chandigarh",
+        "batsman": "R J Shastri (India)",
+        "bowler": "S L V Raju (India)"
+    },
+    {
+        "name": "Sher-I-Kashmir Stadium",
+        "city": "Srinagar",
+        "batsman": "A R Border (Australia)",
+        "bowler": "S L V Raju (India)"
+    },
+    {
+        "name": "University Ground",
+        "city": "Lucknow",
+        "batsman": "Nazar Mohammad (Pakistan)",
+        "bowler": "Fazal Mahmood (Pakistan)"
+    },
+    {
+        "name": "University Stadium",
+        "city": "Thiruvananthapuram",
+        "batsman": "P V Simmons (West Indies)",
+        "bowler": "Fazal Mahmood (Pakistan)"
+    },
+    {
+        "name": "Vidarbha Cricket Association Ground",
+        "city": "Nagpur",
+        "batsman": "A Flower (Zimbabwe)",
+        "bowler": "Maninder Singh (India)"
+    },
+    {
+        "name": "Vidarbha Cricket Association Stadium",
+        "city": "Nagpur",
+        "batsman": "H M Amla (South Africa)",
+        "bowler": "R Ashwin (India)"
+    },
+    {
+        "name": "Wankhede Stadium",
+        "city": "Mumbai",
+        "batsman": "C H Lloyd (West Indies)",
+        "bowler": "A Y Patel (New Zealand)"
+    }
+]
