@@ -3,7 +3,6 @@ function preload() {
   citydata = loadJSON("cityarray.json")
   data = loadJSON("datafile.json")
   playerdata = loadJSON("bowlercount.json")
-  indiaOutline = loadImage("2022-08-01-02-30-28.png") 
 }
 
 function setup() {
@@ -15,12 +14,8 @@ function setup() {
   long1 = 68.7
   long2 = 97.25
   textFont("Trebuchet MS");
-  
-  //image(indiaOutline, 0 , 0, width, height)
   background("White");
-
   printDots();
-  //printNames();
 
 }
 
@@ -36,18 +31,6 @@ function printDots() {
     arc(xpos, ypos, cityinfo.count * 15 - 5, cityinfo.count * 15 - 5, TWO_PI * cityinfo.curpos / cityinfo.count, TWO_PI * (cityinfo.curpos + 1) / cityinfo.count)
     citydata[stadiumInfo.city].curpos++
   }
-}
-
-
-function printNames() {
-  for(i = 0; i < 5; i++) {
-    fill(assignColor(playerlist[i]))
-    textSize(16)
-    text(playerlist[i], width/2, margin + i * 20)
-    print(playerlist[i])
-  }
-  fill(colors.Grey.MainFullOpa)
-  text("Other", width/2, margin + 5 * 20)
 }
 
 function assignColor(player) {
